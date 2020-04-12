@@ -144,7 +144,6 @@
 
         {"name": "PSDecode.fireeye"},
 
-        {"name": "burp.free.fireeye"},
         {"name": "fiddler.fireeye"},
         {"name": "HTTrack.fireeye"},
 
@@ -154,6 +153,5 @@
         {"name": "flare-qdb.python.flare"},
         {"name": "floss.python.flare"},
         {"name": "fakenet-ng.python.flare"}
-
     ]
 }
