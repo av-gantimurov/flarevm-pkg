@@ -111,7 +111,6 @@
         {"name": "yara.flare"},
         {"name": "kmdloader.flare"},
         {"name": "lordpe.flare"},
-        {"name": "googlechrome.flare"},
         {"name": "cyberchef.flare"},
         {"name": "py2exedecompiler.flare"},
         {"name": "pyinstxtractor.fireeye"},
