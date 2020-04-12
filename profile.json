@@ -145,7 +145,6 @@
         {"name": "PSDecode.fireeye"},
 
         {"name": "fiddler.fireeye"},
-        {"name": "HTTrack.fireeye"},
 
         {"name": "malware-jail.fireeye"},
 
