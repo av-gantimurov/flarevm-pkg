@@ -52,16 +52,13 @@
         {"name": "bytecode-viewer.flare"},
         {"name": "dex2jar.flare"},
 
-
         {"name": "vbdecompiler.flare"},
-
 
         {"name": "idr.small.flare"},
 
         {"name": "ffdec.flare"},
 
         {"name": "volatility.flare", "x64Only": true},
-        {"name": "Autospy.fireeye"},
 
         {"name": "fileinsight.flare"},
         {"name": "hxd.flare"},
