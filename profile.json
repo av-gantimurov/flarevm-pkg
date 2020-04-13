@@ -24,13 +24,9 @@
         {"name": "ollydbg.ollydump.flare"},
         {"name": "ollydbg.ollydumpex.flare"},
 
-        {"name": "ollydbg2.flare"},
-        {"name": "ollydbg2.ollydumpex.flare"},
-
         {"name": "x64dbg.flare"},
         {"name": "x64dbg.py.flare"},
         {"name": "x64dbg.ollydumpex.fireeye"},
-
 
         {"name": "windbg.flare"},
         {"name": "windbg.kenstheme.flare"},
@@ -79,7 +75,6 @@
 
         {"name": "SilkETW.fireeye"},
         {"name": "unxutils"},
-        {"name": "farmanager.flare"},
         {"name": "checksum"},
         {"name": "7zip.flare"},
         {"name": "lessmsi.fireeye"},
