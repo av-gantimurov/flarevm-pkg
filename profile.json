@@ -41,7 +41,6 @@
         {"name": "dnsd.flare"},
         {"name": "rundotnetdll.flare"},
 
-
         {"name": "javaruntime"},
         {"name": "jd-gui.flare"},
         {"name": "java-deobfuscator-gui.fireeye"},
@@ -79,10 +78,6 @@
         {"name": "7zip.flare"},
         {"name": "lessmsi.fireeye"},
         {"name": "putty"},
-        {"name": "nmap.flare"},
-        {"name": "winpcap"},
-        {"name": "rawcap"},
-        {"name": "wget"},
         {"name": "bytehist.fireeye"},
         {"name": "upx"},
         {"name": "processhacker.flare"},
@@ -123,9 +118,6 @@
         {"name": "pdfstreamdumper.flare"},
 
         {"name": "nasm.fireeye"},
-
-        {"name": "vim.flare"},
-        {"name": "cygwin.flare"},
 
         {"name": "retdec.flare"},
         {"name": "MAP.flare"},
