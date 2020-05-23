@@ -79,7 +79,6 @@
         {"name": "7zip.flare"},
         {"name": "lessmsi.fireeye"},
         {"name": "putty"},
-        {"name": "wireshark.flare"},
         {"name": "nmap.flare"},
         {"name": "winpcap"},
         {"name": "rawcap"},
